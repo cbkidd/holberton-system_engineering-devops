@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort -k6M -k7n -k8n | head
+ls -l | sort -k6M -k7n
